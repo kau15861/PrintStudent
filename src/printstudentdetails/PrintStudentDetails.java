@@ -19,7 +19,7 @@ public class PrintStudentDetails {
       //define 3 students  by creating object of student class
         Student s1 = new Student(); // s1 - object
         s1.setName("peter");
-        s1.setAge(21);
+        s1.setAge(25);
          Student s2 = new Student(); // s2 - object
         s2.setName("jasdeep");
         s2.setAge(21);
